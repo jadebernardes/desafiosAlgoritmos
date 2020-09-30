@@ -1,5 +1,4 @@
-## desafiosAlgoritmos
-### **_Desafios de Algoritmos_**
+## **_Desafios de Algoritmos_**
 
 _Primeiro desafio: 5 atividades resolvidas em JavaScript (Digital Innovation One) - Nível Básico_
 
