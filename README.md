@@ -1,7 +1,7 @@
 ## desafiosAlgoritmos
 ### **_Desafios de Algoritmos_**
 
-_Primeiro desafio: 5 atividades resolvidas em JavaScript (Digital Innovation One)_
+_Primeiro desafio: 5 atividades resolvidas em JavaScript (Digital Innovation One) - Nível Básico_
 
 ### **Desafio 1**
 Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos como entrada, devendo desconsiderar os valores nulos. Em seguida, apresente a quantidade de valores positivos digitados.
