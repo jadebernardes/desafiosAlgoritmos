@@ -1,9 +1,9 @@
 # desafiosAlgoritmos
-**_Desafios de Algoritmos_**
+###**_Desafios de Algoritmos_**
 
 _Primeiro desafio: 5 atividades resolvidas em JavaScript - Digital Innovation One_
 
-**1) Desafio 1**
+###**1) Desafio 1**
 Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos como entrada, devendo desconsiderar os valores nulos. Em seguida, apresente a quantidade de valores positivos digitados.
 
 Entrada
@@ -24,7 +24,7 @@ Exemplo de Entrada
 Exemplo de Saída
 4 valores positivos
 
-**2) Desafios 2**
+###**2) Desafios 2**
 Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo.
 
 Entrada
@@ -42,7 +42,7 @@ Exemplo de Saída
 4
 6
 
-**3) Desafio 3**
+###**3) Desafio 3**
 Você deve fazer a leitura de 5 valores inteiros. Em seguida mostre quantos valores informados são pares, quantos valores informados são ímpares, quantos valores informados são positivos e quantos valores informados são negativos.
 
 Entrada
@@ -65,7 +65,7 @@ Exemplo de Saída
 1 valor(es) positivo(s)
 3 valor(es) negativo(s)
 
-**4) Desafio**
+###**4) Desafio**
 Faça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.
 
 Entrada
@@ -114,7 +114,7 @@ Exemplo de Saída
 1 nota(s) de R$ 2,00
 1 nota(s) de R$ 1,00
 
-**5) Desafio**
+###**5) Desafio**
 Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros).
 
 Entrada
