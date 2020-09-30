@@ -1,4 +1,4 @@
-# desafiosAlgoritmos
+## desafiosAlgoritmos
 ### **_Desafios de Algoritmos_**
 
 _Primeiro desafio: 5 atividades resolvidas em JavaScript - Digital Innovation One_
@@ -24,7 +24,7 @@ Exemplo de Entrada
 Exemplo de Saída
 4 valores positivos
 
-###**2) Desafios 2**
+### **2) Desafios 2**
 Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo.
 
 Entrada
@@ -65,7 +65,7 @@ Exemplo de Saída
 1 valor(es) positivo(s)
 3 valor(es) negativo(s)
 
-###**4) Desafio**
+### **4) Desafio**
 Faça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.
 
 Entrada
